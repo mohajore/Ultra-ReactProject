@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ultra-ReactProject/static/css/main.81cee992.chunk.css",
+    "main.js": "/Ultra-ReactProject/static/js/main.10bd2136.chunk.js",
+    "main.js.map": "/Ultra-ReactProject/static/js/main.10bd2136.chunk.js.map",
+    "runtime-main.js": "/Ultra-ReactProject/static/js/runtime-main.2aa95cc2.js",
+    "runtime-main.js.map": "/Ultra-ReactProject/static/js/runtime-main.2aa95cc2.js.map",
+    "static/css/2.ca9800f7.chunk.css": "/Ultra-ReactProject/static/css/2.ca9800f7.chunk.css",
+    "static/js/2.591c0670.chunk.js": "/Ultra-ReactProject/static/js/2.591c0670.chunk.js",
+    "static/js/2.591c0670.chunk.js.map": "/Ultra-ReactProject/static/js/2.591c0670.chunk.js.map",
+    "static/js/3.9b5e9657.chunk.js": "/Ultra-ReactProject/static/js/3.9b5e9657.chunk.js",
+    "static/js/3.9b5e9657.chunk.js.map": "/Ultra-ReactProject/static/js/3.9b5e9657.chunk.js.map",
+    "index.html": "/Ultra-ReactProject/index.html",
+    "static/css/2.ca9800f7.chunk.css.map": "/Ultra-ReactProject/static/css/2.ca9800f7.chunk.css.map",
+    "static/css/main.81cee992.chunk.css.map": "/Ultra-ReactProject/static/css/main.81cee992.chunk.css.map",
+    "static/js/2.591c0670.chunk.js.LICENSE.txt": "/Ultra-ReactProject/static/js/2.591c0670.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Ultra-ReactProject/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aa95cc2.js",
+    "static/css/2.ca9800f7.chunk.css",
+    "static/js/2.591c0670.chunk.js",
+    "static/css/main.81cee992.chunk.css",
+    "static/js/main.10bd2136.chunk.js"
+  ]
+}
